@@ -22,4 +22,3 @@ Bio --- My favorite color is blue. Also I love dogs, but my mother is allergic t
 * Computer Games
   * League of Legends
   * Roblox
-
